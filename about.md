@@ -14,5 +14,5 @@ My interests are New Technology,Reading and Travelling.
 
 ### Contact me
 
-nandanparikh.nandan@gmail.com
+
 (mailto:nandanparikh.nandan@gmail.com)
