@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 Some information about Me!
+
 I am Master of Science student at University of Texas at Arlington.
 
 ### More Information
@@ -12,5 +13,5 @@ I am Master of Science student at University of Texas at Arlington.
 My interests are New Technology,Reading and Travelling.
 
 ### Contact me
-
+nandanparikh.nandan@gmail.com
 [email@domain.com](mailto:nandanparikh.nandan@gmail.com)
