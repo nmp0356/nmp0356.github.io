@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information about Me!
+I am Master of Science student at University of Texas at Arlington.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My interests are New Technology,Reading and Travelling.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:nandanparikh.nandan@gmail.com)
