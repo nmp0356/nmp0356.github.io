@@ -12,9 +12,9 @@ I am Master of Science student at University of Texas at Arlington.
 
 My interests are New Technology,Reading and Travelling. 
 
-### Contact me
+#### Contact me
 
 
-[nandanparikh.nandan@gmail.com](mailto:nandanparikh.nandan@gmail.com)
-Mobile NO: +1 682-554-0753
-Linkedin : https://www.linkedin.com/in/nandanparikh
+*[nandanparikh.nandan@gmail.com](mailto:nandanparikh.nandan@gmail.com).
+*Mobile No: +1 682-554-0753
+*Linkedin : https://www.linkedin.com/in/nandanparikh
