@@ -15,6 +15,6 @@ My interests are New Technology,Reading and Travelling.
 #### Contact me
 
 
-*[nandanparikh.nandan@gmail.com](mailto:nandanparikh.nandan@gmail.com).
-*Mobile No: +1 682-554-0753
-*Linkedin : https://www.linkedin.com/in/nandanparikh
+*[nandanparikh.nandan@gmail.com](mailto:nandanparikh.nandan@gmail.com).  
+*Mobile No: +1 682-554-0753  
+*Linkedin : https://www.linkedin.com/in/nandanparikh  
